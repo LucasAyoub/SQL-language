@@ -1,7 +1,7 @@
-# Linguagem-SQL
+# Language-SQL
 
-## Arquivos:
+## Files:
 
-* Exer Farmacia = Exer de modelagem criado anteriormente transformado efetivamente em um banco de dados utilizando SQL - MySQL
-* Locadora = Exer de modelagem criado anteriormente sendo transformado efetivamente em um banco de dados utilizando SQL - MySQL e PostgreSQL
-* Consultando Arquivos = Exer utilizando MongoDB para praticar utilizando a ferramenta
+* Exer Farmacia = Previously created modeling exer effectively transformed into a database using SQL - MySQL
+* Locadora = Previously created modeling exer being effectively transformed into a database using SQL - MySQL and PostgreSQL
+* Consultando Arquivos = Exer using MongoDB to practice using the tool
